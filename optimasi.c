@@ -126,3 +126,5 @@ void optimizeEnergy(Device arr[],
         }
     }
 }
+
+
