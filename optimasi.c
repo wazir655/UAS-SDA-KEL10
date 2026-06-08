@@ -125,3 +125,4 @@ void optimizeEnergy(Device arr[],
                    hemat);
         }
     }
+}
