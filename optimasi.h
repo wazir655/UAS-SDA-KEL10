@@ -1,6 +1,5 @@
 #ifndef OPTIMASI_H
 #define OPTIMASI_H
-assholeee
 #include "energy.h"
 
 typedef struct QueueNode {
