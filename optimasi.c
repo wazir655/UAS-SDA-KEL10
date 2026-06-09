@@ -118,7 +118,7 @@ void optimizeEnergy(Device arr[],
             ((arr[i].power * 2) / 1000.0)
             * 30 * TARIF;
 
-            printf("- Kurangi penggunaan %s 2 jam/hari\n",
+ printf("- Kurangi penggunaan %s 2 jam/hari\n",
                    arr[i].name);
 
             printf("  Potensi hemat Rp %.0f/bulan\n",
