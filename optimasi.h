@@ -22,3 +22,4 @@ void optimizeEnergy(Device arr[],
                     int maxPower);
 
 #endif
+gayyyyfaceeee
